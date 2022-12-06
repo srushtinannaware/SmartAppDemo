@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Smart App</string>
+    <string name="livingroom1">Living Room 1</string>
+    <string name="livingroom2">Living Room 2</string>
+    <string name="bedrm">BedRoom</string>
+    <string name="bathrm">BathRoom</string>
+    <string name="master">Master Button</string>
+    <string name="bright1">Brightness 1</string>
+    <string name="bright2">Brightness 2</string>
+    <string name="bright3">Brightness 3</string>
+    <string name="lamp1">Lamp Light 1</string>
+    <string name="lamp2">Lamp Light 2</string>
+
+</resources>
